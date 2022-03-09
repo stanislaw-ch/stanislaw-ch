@@ -13,7 +13,10 @@ I believe I'd make a valuable asset as an intern. Please don't hesitate to conta
 #### My skills:
 Javascript, TypeScript, React.js, Redux, Node.js, PostgreSQL, SQL, CSS/HTML5
 
-#### How to reach me: https://www.linkedin.com/in/stanislaw-chirko-70b21b190/
+#### How to reach me: 
+https://www.linkedin.com/in/stanislaw-chirko-70b21b190/
+
+https://www.xing.com/profile/Stanislaw_Chirko/cv
 
 
 <!--

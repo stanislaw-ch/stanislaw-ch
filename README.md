@@ -4,7 +4,7 @@ Nice to meet you.
 
 I am a frontend developer with experience building websites and web applications. I specialize in JavaScript and have experience working with React and Node.js. 
 
-I am currently in retraining as a software developer at BBQ Baumann Bildung & Qualifizierung and looking for internship in 03/2023.
+I am currently in retraining as a software developer at BBQ Baumann Bildung & Qualifizierung and looking for internship from 03/2023.
 
 I'm a fast learner and can take on any challenge with creativity and hard work.
 

@@ -2,13 +2,13 @@
 
 Nice to meet you.
 
-I am a frontend developer with experience building websites and web applications. I specialize in JavaScript and have experience working with React and Node.js. 
+I am a frontend developer with websites and web applications building experience. I specialize in JavaScript and have experience working with React and Node.js. 
 
 I am currently in retraining as a software developer at BBQ Baumann Bildung & Qualifizierung and looking for internship from 03/2023.
 
-I'm a fast learner and can take on any challenge with creativity and hard work.
+I'm a fast learner and can take on any challenge creatively.
 
-I believe I'd make a valuable asset as an intern. Please don't hesitate to contact me with any questions!
+I believe I'd make a valuable asset as an intern. If you have any questions, please don't hesitate to contact me.
 
 #### My skills:
 Javascript, TypeScript, React.js, Redux, Node.js, PostgreSQL, SQL, CSS/HTML5

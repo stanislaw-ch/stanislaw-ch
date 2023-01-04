@@ -11,7 +11,7 @@ I'm a fast learner and can take on any challenge creatively.
 I believe I'd make a valuable asset as an intern. If you have any questions, please don't hesitate to contact me.
 
 #### My skills:
-Javascript, TypeScript, React.js, Redux, Node.js, PostgreSQL, SQL, CSS/HTML5
+Javascript, TypeScript, React.js, Redux, Node.js, PHP, Python, PostgreSQL, SQL, CSS/HTML5
 
 #### How to reach me: 
 https://www.linkedin.com/in/stanislaw-chirko-8a0401236/
